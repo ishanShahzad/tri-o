@@ -1,0 +1,36 @@
+.simple{
+    height: 64vh;
+    width: 99%;
+    text-align: center;
+    border: 1px solid black;
+}
+.simple h2{
+    font-size: 50px;
+}
+ .b{
+    height: 17vh;
+    width: 100%;
+    
+    
+}
+.b button{
+    margin: 0 5px;
+    background-color: cadetblue;
+    line-height: 40px;
+    background-color: #666;
+    border-radius: 1px;
+    color: white;
+    height: 39px;
+    width: 120px;
+    border: none;
+     outline-style: none;
+     margin-top: 30px;
+
+
+} 
+.b button:hover{
+    background-color: orange;
+    cursor: pointer;
+    transition-duration: 2s;
+     
+}
